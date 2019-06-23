@@ -1,0 +1,9 @@
+$bgColor: green;
+
+.box {
+  font-size: 80px;
+  display: flex;
+  color: red;
+  border: 1px solid #000;
+  background-color: $bgColor;
+}
