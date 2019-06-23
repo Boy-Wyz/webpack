@@ -1,0 +1,19 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+/.project
+--------------------- 
+作者：干了这碗小米汤儿 
+来源：CSDN 
+原文：https://blog.csdn.net/MtangEr/article/details/87987359 
+版权声明：本文为博主原创文章，转载请附上博文链接！
